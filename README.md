@@ -1,6 +1,15 @@
-## Welcome
+## Name
 
-- Charalambos Stylianou
-- Cyprus-Nicosia-Tseri
-- p17styl@ionio.gr
-- ionio university [Link](http://di.ionio.gr/)
+Charalambos Stylianou
+
+## Andress
+
+Cyprus-Nicosia-Tseri
+
+## Email
+
+p17styl@ionio.gr
+
+## University
+
+Ionio university [Link](http://di.ionio.gr/)
