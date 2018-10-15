@@ -12,4 +12,4 @@ p17styl@ionio.gr
 
 ## University
 
-Ionio university [Link](http://di.ionio.gr/)
+Ionio university [Website](http://di.ionio.gr/)
